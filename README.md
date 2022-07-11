@@ -21,4 +21,5 @@
 # Executing Burp Suite Profession after Activation
 
 --> Windows :-: You can start Burp Suite Professional from Start Menu.
+
 --> Kali Linux :-: You can start Burp Suite Professional by writing **burp** in terminal.
