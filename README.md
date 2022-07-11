@@ -1,6 +1,4 @@
-# Burp-Suite-Installation
-
-Burp Suite Professional Installation steps for Windows
+# Burp Suite Professional Installation steps for Windows
 
 --> Open Powershell and execute below command to set Script Execution Policy.
 	Set-ExecutionPolicy -ExecutionPolicy bypass -Scope process
