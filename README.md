@@ -11,7 +11,7 @@
 --> Execute Kali_Linux_Setup.sh file as root user
 
 # Burp Suite Pro Activation Steps
-1. Modify License String like "license to Siddharth"
+1. Modify License String like "license to cybercommunity03"
 2. Copy License key from keygen.jar and paste in Burp Suite Pro and click Next.
 3. Select Manual Activation Option on your bottom Right in Burp Suite Pro.
 4. Copy License Request from BurpSuite_Pro and paste in Keygenerator.
